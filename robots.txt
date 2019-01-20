@@ -1,0 +1,13 @@
+User-agent: * 
+Disallow: /
+
+#          _     _    
+#         | |   | |   
+#    ___  | |_  | | __
+#   / __| | __| | |/ /
+#  | (__  | |_  |   < 
+#   \___|  \__| |_|\_\
+#                                                     
+#   CTK = Contacts Toolkit
+#
+#   Copyright 2018-2019 CTK, LLC. All rights reserved.

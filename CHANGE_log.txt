@@ -1,0 +1,10 @@
+* Jan 17 2019	
+  > Original files left as is
+  > Added license files 
+
+* Jan 25 2019	
+  > Added license files 
+
+* Jan 31 2019	
+  > Tag v0.1 aka original source 
+  > Change folder/file structure. Remove items not needed
